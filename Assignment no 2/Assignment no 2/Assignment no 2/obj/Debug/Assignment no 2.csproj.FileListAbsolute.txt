@@ -1,0 +1,8 @@
+C:\dotnet training\Assignment\C#\Assignment no 2\Assignment no 2\Assignment no 2\obj\Debug\Assignment no 2.csproj.AssemblyReference.cache
+C:\dotnet training\Assignment\C#\Assignment no 2\Assignment no 2\Assignment no 2\obj\Debug\Assignment no 2.csproj.SuggestedBindingRedirects.cache
+C:\dotnet training\Assignment\C#\Assignment no 2\Assignment no 2\Assignment no 2\obj\Debug\Assignment no 2.csproj.CoreCompileInputs.cache
+C:\dotnet training\Assignment\C#\Assignment no 2\Assignment no 2\Assignment no 2\bin\Debug\Assignment no 2.exe.config
+C:\dotnet training\Assignment\C#\Assignment no 2\Assignment no 2\Assignment no 2\bin\Debug\Assignment no 2.exe
+C:\dotnet training\Assignment\C#\Assignment no 2\Assignment no 2\Assignment no 2\bin\Debug\Assignment no 2.pdb
+C:\dotnet training\Assignment\C#\Assignment no 2\Assignment no 2\Assignment no 2\obj\Debug\Assignment no 2.exe
+C:\dotnet training\Assignment\C#\Assignment no 2\Assignment no 2\Assignment no 2\obj\Debug\Assignment no 2.pdb
