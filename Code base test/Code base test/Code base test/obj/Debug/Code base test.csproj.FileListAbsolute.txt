@@ -1,0 +1,6 @@
+C:\dotnet training\Assignment\C#\Code base test\Code base test\Code base test\bin\Debug\Code base test.exe.config
+C:\dotnet training\Assignment\C#\Code base test\Code base test\Code base test\bin\Debug\Code base test.exe
+C:\dotnet training\Assignment\C#\Code base test\Code base test\Code base test\bin\Debug\Code base test.pdb
+C:\dotnet training\Assignment\C#\Code base test\Code base test\Code base test\obj\Debug\Code base test.csproj.CoreCompileInputs.cache
+C:\dotnet training\Assignment\C#\Code base test\Code base test\Code base test\obj\Debug\Code base test.exe
+C:\dotnet training\Assignment\C#\Code base test\Code base test\Code base test\obj\Debug\Code base test.pdb
