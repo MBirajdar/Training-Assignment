@@ -1,0 +1,7 @@
+C:\dotnet training\Assignment\C#\Assignment no 7\Assignment no 7\Assignment no 7\bin\Debug\Assignment no 7.exe.config
+C:\dotnet training\Assignment\C#\Assignment no 7\Assignment no 7\Assignment no 7\bin\Debug\Assignment no 7.exe
+C:\dotnet training\Assignment\C#\Assignment no 7\Assignment no 7\Assignment no 7\bin\Debug\Assignment no 7.pdb
+C:\dotnet training\Assignment\C#\Assignment no 7\Assignment no 7\Assignment no 7\obj\Debug\Assignment no 7.csproj.AssemblyReference.cache
+C:\dotnet training\Assignment\C#\Assignment no 7\Assignment no 7\Assignment no 7\obj\Debug\Assignment no 7.csproj.CoreCompileInputs.cache
+C:\dotnet training\Assignment\C#\Assignment no 7\Assignment no 7\Assignment no 7\obj\Debug\Assignment no 7.exe
+C:\dotnet training\Assignment\C#\Assignment no 7\Assignment no 7\Assignment no 7\obj\Debug\Assignment no 7.pdb
