@@ -27,7 +27,7 @@ namespace ADO_codebase_3
                 float empsal = Convert.ToSingle(Console.ReadLine());
                 Console.WriteLine("Enter the Employee type (C or P) : ");
                 string emptype = Console.ReadLine();
-                cmd = new SqlCommand("AddEmployee", con);
+                cmd = new SqlCommand("Employee_Management", con);
                 cmd.CommandType = CommandType.StoredProcedure;
                 cmd = new SqlCommand("execute Employee_Management @empname,@empsal,@emptype", con);
                 cmd.Parameters.Add(new SqlParameter("@empname", empname));
