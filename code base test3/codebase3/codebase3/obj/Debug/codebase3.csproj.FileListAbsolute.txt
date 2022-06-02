@@ -1,0 +1,7 @@
+C:\dotnet training\Assignment\C#\code base test3\codebase3\codebase3\bin\Debug\codebase3.exe.config
+C:\dotnet training\Assignment\C#\code base test3\codebase3\codebase3\bin\Debug\codebase3.exe
+C:\dotnet training\Assignment\C#\code base test3\codebase3\codebase3\bin\Debug\codebase3.pdb
+C:\dotnet training\Assignment\C#\code base test3\codebase3\codebase3\obj\Debug\codebase3.csproj.AssemblyReference.cache
+C:\dotnet training\Assignment\C#\code base test3\codebase3\codebase3\obj\Debug\codebase3.csproj.CoreCompileInputs.cache
+C:\dotnet training\Assignment\C#\code base test3\codebase3\codebase3\obj\Debug\codebase3.exe
+C:\dotnet training\Assignment\C#\code base test3\codebase3\codebase3\obj\Debug\codebase3.pdb
