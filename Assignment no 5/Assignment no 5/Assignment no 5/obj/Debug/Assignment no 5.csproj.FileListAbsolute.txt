@@ -1,8 +1,0 @@
-C:\dotnet training\Assignment\C#\Assignment no 5\Assignment no 5\Assignment no 5\bin\Debug\Assignment no 5.exe.config
-C:\dotnet training\Assignment\C#\Assignment no 5\Assignment no 5\Assignment no 5\bin\Debug\Assignment no 5.exe
-C:\dotnet training\Assignment\C#\Assignment no 5\Assignment no 5\Assignment no 5\bin\Debug\Assignment no 5.pdb
-C:\dotnet training\Assignment\C#\Assignment no 5\Assignment no 5\Assignment no 5\obj\Debug\Assignment no 5.csproj.AssemblyReference.cache
-C:\dotnet training\Assignment\C#\Assignment no 5\Assignment no 5\Assignment no 5\obj\Debug\Assignment no 5.csproj.CoreCompileInputs.cache
-C:\dotnet training\Assignment\C#\Assignment no 5\Assignment no 5\Assignment no 5\obj\Debug\Assignment no 5.exe
-C:\dotnet training\Assignment\C#\Assignment no 5\Assignment no 5\Assignment no 5\obj\Debug\Assignment no 5.pdb
-C:\dotnet training\Assignment\C#\Assignment no 5\Assignment no 5\Assignment no 5\obj\Debug\Assignment no 5.csproj.SuggestedBindingRedirects.cache
