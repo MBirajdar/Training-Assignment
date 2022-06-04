@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+<h1>Check Numbers are in between 50 and 99(inclusive)</h1>
+<form>
+    <table>
+        <tr>
+            <td>
+                1st Number : <input type="text" id="firstnumber" />
+                
+                <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                2nd Number: <input type="text" id="secondnumber" /><br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="button" onClick="sum()" Value="Check" />
+            </td>
+        </tr>
+    </table>
+</form>
+<script>
+function sum(){
+num1 = document.getElementById("firstnumber").value;
+num2 = document.getElementById("secondnumber").value;
+if ((num1>= 50 && num1<= 99) && (num2>= 50 && num2<= 99)) 
+{
+
+    document.write("true")
+}
+else
+{
+    document.write("false");
+}
+} 
+
+  
+</script>
+
+</head>
+<body>
+
+</body>
+</html>

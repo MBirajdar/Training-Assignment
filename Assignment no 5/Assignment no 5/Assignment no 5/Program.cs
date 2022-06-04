@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 
 namespace Assignment_no_5
 {
-    class Program
-    {
         class Bank
         {
             int money = 32000;
@@ -62,7 +60,6 @@ namespace Assignment_no_5
                 Console.WriteLine( acc_name + " your accountbalance: " + money);
 
             }
-        }
         static void Main(string[] args)
         {
             Bank bank = new Bank();
@@ -70,9 +67,11 @@ namespace Assignment_no_5
             bank.depositMoney();
             bank.withdrawMoney();
             Console.ReadLine();
-           
+
         }
+    }
+       
         
 
-    }
+    
 }
