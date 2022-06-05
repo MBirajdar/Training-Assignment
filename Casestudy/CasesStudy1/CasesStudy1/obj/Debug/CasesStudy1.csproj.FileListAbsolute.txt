@@ -1,0 +1,14 @@
+C:\dotnet training\Assignment\C#\Casestudy\CaseStudy1\CasesStudy1\CasesStudy1\bin\Debug\CasesStudy1.exe.config
+C:\dotnet training\Assignment\C#\Casestudy\CaseStudy1\CasesStudy1\CasesStudy1\bin\Debug\CasesStudy1.exe
+C:\dotnet training\Assignment\C#\Casestudy\CaseStudy1\CasesStudy1\CasesStudy1\bin\Debug\CasesStudy1.pdb
+C:\dotnet training\Assignment\C#\Casestudy\CaseStudy1\CasesStudy1\CasesStudy1\obj\Debug\CasesStudy1.csproj.AssemblyReference.cache
+C:\dotnet training\Assignment\C#\Casestudy\CaseStudy1\CasesStudy1\CasesStudy1\obj\Debug\CasesStudy1.csproj.CoreCompileInputs.cache
+C:\dotnet training\Assignment\C#\Casestudy\CaseStudy1\CasesStudy1\CasesStudy1\obj\Debug\CasesStudy1.exe
+C:\dotnet training\Assignment\C#\Casestudy\CaseStudy1\CasesStudy1\CasesStudy1\obj\Debug\CasesStudy1.pdb
+C:\dotnet training\Assignment\C#\Casestudy\CasesStudy1\CasesStudy1\bin\Debug\CasesStudy1.exe.config
+C:\dotnet training\Assignment\C#\Casestudy\CasesStudy1\CasesStudy1\bin\Debug\CasesStudy1.exe
+C:\dotnet training\Assignment\C#\Casestudy\CasesStudy1\CasesStudy1\bin\Debug\CasesStudy1.pdb
+C:\dotnet training\Assignment\C#\Casestudy\CasesStudy1\CasesStudy1\obj\Debug\CasesStudy1.csproj.AssemblyReference.cache
+C:\dotnet training\Assignment\C#\Casestudy\CasesStudy1\CasesStudy1\obj\Debug\CasesStudy1.csproj.CoreCompileInputs.cache
+C:\dotnet training\Assignment\C#\Casestudy\CasesStudy1\CasesStudy1\obj\Debug\CasesStudy1.exe
+C:\dotnet training\Assignment\C#\Casestudy\CasesStudy1\CasesStudy1\obj\Debug\CasesStudy1.pdb

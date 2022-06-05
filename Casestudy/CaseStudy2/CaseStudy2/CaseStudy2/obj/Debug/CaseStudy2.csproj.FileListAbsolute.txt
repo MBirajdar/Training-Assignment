@@ -1,0 +1,7 @@
+C:\dotnet training\Assignment\C#\Casestudy\CaseStudy2\CaseStudy2\CaseStudy2\bin\Debug\CaseStudy2.exe.config
+C:\dotnet training\Assignment\C#\Casestudy\CaseStudy2\CaseStudy2\CaseStudy2\bin\Debug\CaseStudy2.exe
+C:\dotnet training\Assignment\C#\Casestudy\CaseStudy2\CaseStudy2\CaseStudy2\bin\Debug\CaseStudy2.pdb
+C:\dotnet training\Assignment\C#\Casestudy\CaseStudy2\CaseStudy2\CaseStudy2\obj\Debug\CaseStudy2.csproj.AssemblyReference.cache
+C:\dotnet training\Assignment\C#\Casestudy\CaseStudy2\CaseStudy2\CaseStudy2\obj\Debug\CaseStudy2.csproj.CoreCompileInputs.cache
+C:\dotnet training\Assignment\C#\Casestudy\CaseStudy2\CaseStudy2\CaseStudy2\obj\Debug\CaseStudy2.exe
+C:\dotnet training\Assignment\C#\Casestudy\CaseStudy2\CaseStudy2\CaseStudy2\obj\Debug\CaseStudy2.pdb
