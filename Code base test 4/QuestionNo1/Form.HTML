@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SIGN UP | FORM</title>
+</head>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        line-height: 20px;
+    }
+      h2 {
+        font-size: 50px;
+        color: black;
+      } 
+      button {
+        font-size: 15px;
+      }
+      fieldset {
+        border-width: 2px;
+        border-left: 3px solid blue;
+      }
+</style>
+<body>
+    <fieldset>
+        <h2 id="main-heading">Create an Account</h2>
+        <div id="frm">
+            <label for="Email">Email:</label><br>
+            <input type="text" name="Email" id="email"><br>
+            <label for="Password">Password:</label><br>
+            <input type="text" name="Password" id="pwd"><br>
+            <label for="Age">Age:</label><br>
+            <select name="Age">
+                <option value="" disabled selected> Select Age</option>
+                <option value="1-10">1-10</option>
+                <option value="11-20">11-20</option>
+                <option value="21-30">21-30</option>
+                <option value="31-50">31-50</option>
+                <option value="51-70">51-70</option>
+            </select><br>
+            <label for="info">tell us little about yourself:</label><br>
+            <textarea name="info" id="description" cols="100" rows="10"></textarea><br>
+            <input type="checkbox" id="tc" name="tc" value="">
+            <label for="tc">I agree to the <a href="#">terms of service</a></label><br>
+            <button type="submit">Sign up</button>
+        </div>
+    </fieldset>
+</body>
+
+</html>
